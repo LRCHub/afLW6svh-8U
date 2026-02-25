@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ATM",
+  "base_artist": "Don Toliver",
+  "createdAt": "2026-02-25T15:19:01.715161Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ATM Jam",
+      "artist": "Azealia Banks feat. Pharrell",
+      "has_synced": false,
+      "path": "select/01_ATM_Jam_Azealia_Banks_feat._Pharrell.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Atm",
+      "artist": "The Stooges",
+      "has_synced": false,
+      "path": "select/02_Atm_The_Stooges.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ATM(About That Money)",
+      "artist": "Strategy",
+      "has_synced": false,
+      "path": "select/03_ATM(About_That_Money)_Strategy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ATM",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/04_ATM_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ATM (PO Clean Edit)",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/05_ATM_(PO_Clean_Edit)_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Atm",
+      "artist": "Alkaline",
+      "has_synced": true,
+      "path": "select/06_Atm_Alkaline.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Atm Jam (Feat. Pharrell)",
+      "artist": "Azealia Banks",
+      "has_synced": true,
+      "path": "select/07_Atm_Jam_(Feat._Pharrell)_Azealia_Banks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "cupcake ATM",
+      "artist": "chelmico",
+      "has_synced": true,
+      "path": "select/08_cupcake_ATM_chelmico.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ATM Jam",
+      "artist": "Azealia Banks feat. Pharrell Williams",
+      "has_synced": true,
+      "path": "select/09_ATM_Jam_Azealia_Banks_feat._Pharrell_Williams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ATM Jam",
+      "artist": "Azealia Banks",
+      "has_synced": true,
+      "path": "select/10_ATM_Jam_Azealia_Banks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I believe-that I see love in you-radio edit-atm",
+      "artist": "Sertab",
+      "has_synced": true,
+      "path": "select/11_I_believe-that_I_see_love_in_you-radio_edit-atm_Sertab.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ATM",
+      "artist": "Clementino feat. LDO",
+      "has_synced": true,
+      "path": "select/12_ATM_Clementino_feat._LDO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ATM",
+      "artist": "Clementino",
+      "has_synced": true,
+      "path": "select/13_ATM_Clementino.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oi (ATM)",
+      "artist": "NOISY",
+      "has_synced": true,
+      "path": "select/14_Oi_(ATM)_NOISY.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ATM (feat. MV Killa)",
+      "artist": "Yung Snapp feat. MV Killa",
+      "has_synced": false,
+      "path": "select/15_ATM_(feat._MV_Killa)_Yung_Snapp_feat._MV_Killa.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ATM (feat. MV Killa)",
+      "artist": "Yung Snapp",
+      "has_synced": false,
+      "path": "select/16_ATM_(feat._MV_Killa)_Yung_Snapp.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ATM",
+      "artist": "Yung Snapp",
+      "has_synced": false,
+      "path": "select/17_ATM_Yung_Snapp.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Atm Disaster Scenes",
+      "artist": "Into It. Over It.",
+      "has_synced": true,
+      "path": "select/18_Atm_Disaster_Scenes_Into_It._Over_It..lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ATM (feat. Missy Elliott)",
+      "artist": "Bree Runway feat. Missy Elliott",
+      "has_synced": true,
+      "path": "select/19_ATM_(feat._Missy_Elliott)_Bree_Runway_feat._Missy_Elliott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ATM",
+      "artist": "Don Toliver",
+      "has_synced": false,
+      "path": "select/pl_01_ATM_Don_Toliver.txt"
+    }
+  ]
+}
